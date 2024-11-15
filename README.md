@@ -2,6 +2,9 @@
 
 This code was submitted as my final project in MIT Data Science Certificate Program
 
+## Project Summary
+In this project I developed 11 CNN and transfer learning models aimed at detecting 4 emotions in black and white images. 
+
 ## Context:
 Deep learning enables the analysis of unstructured data, including image data for emotion detection. Emotion AI focuses on developing systems that can understand and respond to human emotions by analyzing facial expressions and other cues. Accurate facial emotion recognition systems could enable mental health diagnostics, improve customer service platforms, and help businesses make decisions based on customers’ perceptions of products in stores or restaurants.
 
