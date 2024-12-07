@@ -3,7 +3,7 @@
 This code was submitted as my final project in MIT Data Science Certificate Program
 
 ## Project Summary
-In this project, I developed 11 CNN models and leveraged transfer learning techniques with models such as VGG16, ResNet V2, and EfficientNet to detect 4 emotion categories in black and white images. I leveraged optimization techniques such as Barch Normalization, Dropout, and the Adam optimizer, alongside data preprocessing and feature engineering to achieve an impressive 75.79% accuracy.
+In this project, I developed 11 CNN models and leveraged transfer learning techniques with models such as VGG16, ResNet V2, and EfficientNet to detect 4 emotion categories in black and white images. I utilized optimization techniques such as Batch Normalization, Dropout, Pooling, Regularization, and the Adam optimizer, alongside data preprocessing and feature engineering, to achieve an impressive 75.79% accuracy.
 
 ## Context:
 Deep learning enables the analysis of unstructured data, including image data for emotion detection. Emotion AI focuses on developing systems that can understand and respond to human emotions by analyzing facial expressions and other cues. Accurate facial emotion recognition systems could enable mental health diagnostics, improve customer service platforms, and help businesses make decisions based on customers’ perceptions of products in stores or restaurants.
